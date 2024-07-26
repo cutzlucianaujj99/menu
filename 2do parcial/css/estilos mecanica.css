@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #dbcc9a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    color: #fdde78;
+    text-align: center;
+    padding: 20px 0 15px 0;
+    font-size: 26px;
+}
+
+.title2 {
+    color: #fffae8;
+    text-align: center;
+    padding: 15px 0 15px 0;
+    font-size: 15px;
+}
+
+.container {
+    background: rgb(51, 43, 0);
+    width: 1200px;
+    margin: 15px auto;
+}
+
+.top {
+    background: #161501;
+    overflow: hidden;
+}
+
+.logo {
+    float: left;
+    width: 300px;
+    padding: 40px;
+}
+
+.menu {
+    float: left;
+    padding: 50px;
+}
+
+.options li {
+    float: left;
+    list-style: none;
+}
+
+.options li a {
+    color: white;
+    padding: 30px;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+.options li a:hover {
+    background: #ffea29;
+}
+
+.body {
+    overflow: hidden;
+}
+
+.box {
+    float: left;
+    width: 380px;
+    margin: 9px;
+    border: 1px solid;
+}
+
+.subtitle {
+    background: #bebc45;
+    color: white;
+}
+
+.services {
+    color: rgb(247, 255, 226);
+    text-align: center;
+    padding: 10px 0;
+}
+
+.effect:hover {
+    opacity: 0;
+    cursor: pointer;
+}
+
+.content {
+    padding: 05px;
+    text-align: justify;
+}
+
+.button {
+    background: #ffbb00;
+    color: rgb(88, 82, 48);
+    border: none;
+    padding: 15px 20px;
+    margin: 0px 0;
+    display: inline-block;
+    text-align: center;
+    border-radius: 1px;
+}
+
+.button:hover {
+    background: #dfd264;
+    cursor: pointer;
+}
+
+.footer {
+    background: #615703;
+    overflow: hidden;
+}
+
+.left {
+    float: left;
+    width: 500px;
+    padding: 20px;
+}
+
+.right {
+    float: left;
+    width: 500px;
+    padding: 20px;
+}
+
+.below {
+    color: rgb(226, 198, 105);
+    font-size: 18px;
+    padding: 15px;
+}
+
+.follow {
+    color: rgb(255, 253, 161);
+    text-align: center;
+    font-size: 12px;
+    padding: 0px 0;
+}
+.iimagenes {
+    background: #866918;
+    color: white;
+    border: none;
+    padding: 0px 0px;
+    margin: 0px 0;
+    display: inline-block;
+    text-align: center;
+    border-radius: 0px;
+}

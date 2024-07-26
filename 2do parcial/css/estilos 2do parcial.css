@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #c2162d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    color: #ff98bf;
+    text-align: center;
+    padding: 20px 0 15px 0;
+    font-size: 30px;
+}
+
+.container {
+    background: rgb(255, 28, 77);
+    width: 1200px;
+    margin: 10px auto;
+}
+
+.top {
+    background: #ff4343;
+    overflow: hidden;
+}
+
+.logo {
+    float: left;
+    width: 300px;
+    padding: 40px;
+}
+
+.menu {
+    float: left;
+    padding: 50px;
+}
+
+.options li {
+    float: left;
+    list-style: none;
+}
+
+.options li a {
+    color: white;
+    padding: 30px;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+.options li a:hover {
+    background: #0d356a;
+}
+
+.body {
+    overflow: hidden;
+}
+
+.box {
+    float: left;
+    width: 380px;
+    margin: 9px;
+    border: 1px solid;
+}
+
+.subtitle {
+    background: #f53abd;
+    color: white;
+}
+
+.services {
+    color: rgb(71, 1, 13);
+    text-align: center;
+    padding: 15px 0;
+}
+
+.effect:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.content {
+    padding: 10px;
+    text-align: justify;
+}
+
+.button {
+    background: #144a91;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    margin: 20px 0;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background: #ff9292;
+    cursor: pointer;
+}
+
+.footer {
+    background: #d81d4c;
+    overflow: hidden;
+}
+
+.left {
+    float: left;
+    width: 500px;
+    padding: 20px;
+}
+
+.right {
+    float: left;
+    width: 500px;
+    padding: 20px;
+}
+
+.below {
+    color: rgb(155, 24, 41);
+    font-size: 12px;
+    padding: 10px;
+}
+
+.follow {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 12px;
+    padding: 15px 0;
+}
